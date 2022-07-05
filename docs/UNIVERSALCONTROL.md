@@ -210,7 +210,7 @@ Any model after the list of officially blacklisted Macs should be supported, but
 | MacBook Pro Early 2015 13" | MacBookPro12,x | MacBookPro13,1 | ^^ | ^^ |
 | MacBook Pro Mid 2015 15" | MacBookPro11,4 / 11,5 | MacBookPro13,3 | ^^ | ^^ 
 | iMac Late 2015 21" | iMac16,x | iMac18,2 | ^^ | ^^ 
-| Mac mini Late 2014  | Macmini7,x | MacMini8,1 | <span style="color:red"> NO </span> | N/A |
+| Mac mini Late 2014  | Macmini7,x | MacMini8,1 | <span style="color:#30BCD5"> YES </span> | Danny Zhong |
 | Mac Pro Late 2013 | MacPro6,x | MacPro7,1 | <span style="color:#30BCD5"> YES </span> | Crystall1nedev |
 
 :::
